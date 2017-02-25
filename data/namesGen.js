@@ -6,7 +6,8 @@ var names = [ "Josu Renata", "Kóri Akilina", "Yenifer Grishma", "Cristiano Sofi
               "Mia Zaki", "Daria Henderson", "Demetra Vivek", "Joi Dragutin", "Afanasiy Yeriyahu",
               "Robert Esther", "Igon Biljana", "Sunder Elis", "Tinashe Atanase", "Ingibjörg Havel",
               "Sima Xenon", "Konrád Karthik", "Sindri Chibuike", "Racquel Iliana", "Sebastian Bekki",
-              "Rebekka Roope", "Venceslao Sekhar", "Xochitl Clíodhna", "Ratko Lanny", "Dipika Jure" ];
+              "Rebekka Roope", "Venceslao Sekhar", "Xochitl Clíodhna", "Ratko Lanny", "Dipika Jure",
+              "Pavel Natanael", "Akanksha Chiranjivi", "Gandalf Lalla", "Wandalin Conor"];
 
 exports.getRandomName = function ( numFakes ) {
   var randomNames = [];
